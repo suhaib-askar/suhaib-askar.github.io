@@ -1,2 +1,3 @@
 # suhaib-askar.github.io
-My Website
+Full-Stack Developer
+Contact at suhaibaskar@gmail.com
